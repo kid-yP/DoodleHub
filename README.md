@@ -16,7 +16,7 @@ Vite: For fast development and optimized production builds.
 Installation
 Clone the repository:
 
-git clone https://github.com/KrishBharadwaj5678/Drawly.git
+git clone https://github.com/kid-yP/DoodleHub.git
 Navigate to the project directory:
 
 cd Drawly
