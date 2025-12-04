@@ -1,1 +1,30 @@
+DoodleHub ✏️
+DoodleHub is a powerful, web-based drawing tool designed to bring your ideas to life. Whether you're brainstorming, sketching, or crafting detailed diagrams, Drawly combines simplicity with versatility to deliver a seamless and intuitive drawing experience.
 
+Features
+🖌️ Freehand Drawing: Create smooth, natural lines with precision.
+📏 Shapes and Tools: Use pre-made shapes like rectangles, circles, arrows, and more.
+🔄 Undo/Redo: Seamlessly correct mistakes or revisit changes.
+🎨 Customizable Colors: Choose from a vibrant palette to make your creations stand out.
+📋 Export: Save your drawings.
+🌐 Web-Based: Access Drawly from any device with a browser.
+Technologies Used
+React JS: For building a dynamic and responsive user interface.
+Excalidraw: Integrated as a core dependency for powerful drawing and diagramming features.
+CSS: For styling and layout customization.
+Vite: For fast development and optimized production builds.
+Installation
+Clone the repository:
+
+git clone https://github.com/KrishBharadwaj5678/Drawly.git
+Navigate to the project directory:
+
+cd Drawly
+Install dependencies:
+
+npm install
+Start the development server:
+
+npm run dev
+Contributing
+Contributions are welcome! Feel free to submit issues or pull requests.
