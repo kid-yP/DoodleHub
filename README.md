@@ -21,7 +21,8 @@ Whether you're brainstorming, sketching, or crafting detailed diagrams, **Doodle
 - **React JS** – Dynamic and responsive user interface.  
 - **Excalidraw** – Core dependency for powerful drawing and diagramming features.  
 - **CSS** – Styling and layout customization.  
-- **Vite** – Fast development and optimized production builds.  
+- **Vite** – Fast development and optimized production builds.
+- **Deployed Version** - https://doodle-hub-two.vercel.app/
 
 ---
 
